@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: url("nature bg.jpg") no-repeat center/cover;
+    background: url("White\ Background.jpg") no-repeat center/cover;
 }
 
 /* NAVBAR */
@@ -9,7 +9,7 @@ body {
     display: grid;
     grid-template-columns: 1fr auto 1fr;
     align-items: center; 
-    background: rgba(34, 139, 34, 0.85);
+    background: rgba(0, 204, 255, 0.85);
 }
 
 .navbar .logo {
@@ -43,7 +43,7 @@ body {
 
 
 .card {
-    background: rgba(255,255,255,0.9);
+    background: rgba(224, 224, 224, 0.9);
     padding: 30px;
     border-radius: 15px;
     text-align: center;
